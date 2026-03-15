@@ -83,7 +83,7 @@ import {
   serverTimestamp,
   updateDoc,
   deleteDoc
-} from "https://www.gstatic.com/firebasejs/12.10.0/firebase-firestore.js";
+} from "https://www.gstatic.com/firebasejs/12.10.0/firebase-index.js";
 
 
 
