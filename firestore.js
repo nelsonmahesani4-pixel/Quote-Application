@@ -65,7 +65,7 @@
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
 const firebaseConfig = {
-  apiKey: "AIzaSyDgAn2TSlzeE_1LU6ohWg0Zan6y0JE7gpM",
+  apiKey: Process.env.API_KEY,
     authDomain: "my-first-project-1242d.firebaseapp.com",
     projectId: "my-first-project-1242d",
     storageBucket: "my-first-project-1242d.firebasestorage.app",
